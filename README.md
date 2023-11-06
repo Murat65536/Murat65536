@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Murat Bayraktar
+
+- 🔭 I'm currently working on recreating Terraria in Python.
+- 🤔 I'm looking for help with my Terraria project in Python.
+- 🌱 I'm currently learning Java.
+- 📫 How to reach me: bmuratb502@gmail.com
