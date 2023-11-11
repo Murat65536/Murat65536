@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there U+1F44B
 ## My name is Murat Bayraktar
 
 - 🔭 I'm currently working on recreating Terraria in Python.
