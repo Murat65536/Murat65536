@@ -1,4 +1,4 @@
-# Hi there &#9995;
+# Hi there &#128075;
 ## My name is Murat Bayraktar
 
 - 🔭 I'm currently working on recreating Terraria in Python.
