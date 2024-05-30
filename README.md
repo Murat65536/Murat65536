@@ -58,7 +58,14 @@
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10" alt="Used Langs" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=murat65536&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=murat65536" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=murat65536" alt="Wakatime" />
       </picture>
     </td>
   </tr>
