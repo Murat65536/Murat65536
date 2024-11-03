@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm Murat</h1>
-<h3 align="center">A Sleep Deprived 14 Year-Old.</h3>
+<h2 align="center">Hello, I'm Murat</h2>
+<h3 align="center">A Sleep Deprived Programmer.</h3>
 <picture>
   <img src="https://komarev.com/ghpvc/?username=murat65536&label=Profile%20views" alt="Profile Views" />
 </picture>
-<h2>Languages and Tools:</h3>
+<h4>Learned:</h4>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="java.svg" alt="Java" width="40" height="auto" />
