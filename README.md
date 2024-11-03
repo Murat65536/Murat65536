@@ -6,22 +6,22 @@
 <h2>Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="auto" />
+    <img src="java.svg" alt="Java" width="40" height="auto" />
   </a>
   <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="auto"/>
+    <img src="html.svg" alt="HTML5" width="40" height="auto"/>
   </a>
   <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="auto"/>
+    <img src="css.svg" alt="CSS3" width="40" height="auto"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="auto"/>
+    <img src="javascript.svg" alt="Javascript" width="40" height="auto"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="auto"/>
+    <img src="python.svg" alt="Python" width="40" height="auto"/>
   </a>
   <a href="https://autohotkey.com" target="_blank" rel="noreferrer">
-    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/autohotkey.png" alt="AutoHotkey" width="40" height="auto" />
+    <img src="autohotkey.svg" alt="AutoHotkey" width="40" height="auto" />
   </a>
 </p>
 <details>
