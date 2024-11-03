@@ -17,15 +17,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="auto"/>
   </a>
-  <a href="https://opencv.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="auto"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="auto"/>
   </a>
-   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
-     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="auto"/>
-   </a>
   <a href="https://autohotkey.com" target="_blank" rel="noreferrer">
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/autohotkey.png" alt="AutoHotkey" width="40" height="auto" />
   </a>
