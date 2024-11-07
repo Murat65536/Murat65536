@@ -3,7 +3,7 @@
 <picture>
   <img src="https://komarev.com/ghpvc/?username=murat65536&label=Profile%20views" alt="Profile Views" />
 </picture>
-<h4>Learned:</h4>
+<h4>Learned Languages:</h4>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="java.svg" alt="Java" width="40" height="auto" />
