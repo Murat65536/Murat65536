@@ -64,6 +64,7 @@
         </picture>
       </td>
       <td align="center">
+        <p>(Contains data from only the last few months)</p>
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=murat65536&theme=dark" media="(prefers-color-scheme: dark)" />
           <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=murat65536" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
