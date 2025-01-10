@@ -49,21 +49,14 @@
       </td>
       <td align="center">
         <picture>
-          <source srcset="https://github-readme-streak-stats.herokuapp.com?user=murat65536&border_radius=4&theme=dark" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-streak-stats.herokuapp.com?user=murat65536&border_radius=4" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=murat65536&border_radius=4" alt="GitHub Streak" />
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <picture>
           <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
           <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10" alt="Used Langs" />
         </picture>
       </td>
-      <td align="center">
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <p>(Contains data from only the last few months)</p>
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=murat65536&theme=dark" media="(prefers-color-scheme: dark)" />
