@@ -28,36 +28,3 @@
     <img src="autohotkey.svg" alt="AutoHotkey" width="40" height="auto" />
   </a>
 </p>
-<details>
-  <summary>
-    Stats:
-  </summary>
-  <br />
-  <table>
-    <tr>
-      <td align="center" colspan="2">
-        <picture>
-          <source srcset="https://github-profile-trophy.vercel.app/?username=murat65536&theme=onedark" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-profile-trophy.vercel.app/?username=murat65536" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-profile-trophy.vercel.app/?username=murat65536" alt="Github Trophies" />
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=murat65536&show_icons=true&locale=en&theme=dark" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=murat65536&show_icons=true&locale=en" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=murat65536&show_icons=true&locale=en" alt="Github Stats" />
-        </picture>
-      </td>
-      <td align="center">
-        <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat65536&langs_count=10" alt="Used Langs" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</details>
