@@ -3,7 +3,7 @@
 </picture>
 <h2>Currently Tasked With:</h2>
 <ul>
-  <li>Learning how to exit vim</li>
+  <li>Feeding my vim config all my spare time</li>
   <li>Attempting to finish the 20 different side projects I have simultaneously</li>
   <li>Writing amazing spagetti code</li>
   <li>Telling everyone how much I use Arch (btw)</li>
