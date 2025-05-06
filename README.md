@@ -1,9 +1,10 @@
-<h2 align="center">Hello, I'm Murat</h2>
-<h3 align="center">A Sleep Deprived Programmer.</h3>
-<picture>
-  <img src="https://komarev.com/ghpvc/?username=murat65536&label=Profile%20views" alt="Profile Views" />
-</picture>
-<br />
 <picture>
   <img src="https://wakatime.com/badge/user/eddcd7fe-d4ee-4c18-ab18-375b9a454019.svg" />
 </picture>
+<h2>Currently Tasked With:</h2>
+<ul>
+  <li>Learning how to exit vim</li>
+  <li>Attempting to finish the 20 different side projects I have simultaneously</li>
+  <li>Writing amazing spagetti code</li>
+  <li>Telling everyone how much I use Arch (btw)</li>
+</ul>
