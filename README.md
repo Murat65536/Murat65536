@@ -5,6 +5,6 @@
 <ul>
   <li>Feeding my vim config all my spare time</li>
   <li>Attempting to finish the 20 different side projects I have simultaneously</li>
-  <li>Writing amazingly formatted spagetti code</li>
+  <li>Destroying my sleep schedule</li>
   <li>Telling everyone how much I use Arch (btw)</li>
 </ul>
