@@ -21,3 +21,7 @@
   <summary>Terraria Clone</summary>
   <video src="https://github.com/user-attachments/assets/bb0df853-66bd-4508-a9e5-1db75f4e4f48"></video>
 </details>
+<details>
+  <summary>Terminal-Based 3d Rendering Engine</summary>
+  <video src="https://github.com/user-attachments/assets/771152a3-6d21-47fc-b9de-374af58acea5"></video>
+</details>
