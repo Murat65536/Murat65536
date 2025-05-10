@@ -3,8 +3,8 @@
 </picture>
 <h2>Currently Working On:</h2>
 <ul>
-  <li>Feeding my vim config my internal organs</li>
+  <li>Feeding my Vim config any remaining internal organs</li>
   <li>Attempting to finish the 20 different side projects I have simultaneously</li>
   <li>Destroying my sleep schedule</li>
-  <li>Telling everyone how much I use Arch (btw)</li>
+  <li>Announcing that I use Arch (btw)</li>
 </ul>
