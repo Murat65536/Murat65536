@@ -9,10 +9,12 @@
   <li>Announcing that I use Arch (btw)</li>
 </ul>
 <h2>Creations:</h2>
+<video width="630" height="300" src="raycaster.mp4"></video>
+
 <details>
     <summary>Simple Raycaster</summary>
     <br />
-    <video width="320" height="240">
+    <video width="320" height="240" controls>
         <source src="raycaster.mp4" type="video/mp4" />
     </video>
 </details>
