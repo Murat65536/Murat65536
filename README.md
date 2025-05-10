@@ -6,7 +6,7 @@
   <li>Feeding my Vim config any remaining internal organs</li>
   <li>Attempting to finish the 20 different side projects I have simultaneously</li>
   <li>Destroying my sleep schedule</li>
-  <li>Announcing that I use Arch (btw)</li>
+  <li>Announcing that I use Arch (btw) to everyone I see</li>
 </ul>
 <h2>Creations:</h2>
 <details>
