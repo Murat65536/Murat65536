@@ -15,13 +15,13 @@
 </details>
 <details>
   <summary>3d Rendering Engine</summary>
-  <video src="https://github.com/user-attachments/assets/a2cc85f2-fa38-4359-8ea7-4991d5b022e5"></video>
+  <video src="https://github.com/user-attachments/assets/394933b3-c4dc-4da8-8807-c91780901582"></video>
 </details>
 <details>
   <summary>Terraria Clone</summary>
-  <video src="https://github.com/user-attachments/assets/bb0df853-66bd-4508-a9e5-1db75f4e4f48"></video>
+  <video src="https://github.com/user-attachments/assets/b38ae9b5-13b1-4ea8-8040-8880910295ee"></video>
 </details>
 <details>
   <summary>Terminal-Based 3d Rendering Engine</summary>
-  <video src="https://github.com/user-attachments/assets/771152a3-6d21-47fc-b9de-374af58acea5"></video>
+  <video src="https://github.com/user-attachments/assets/5443422c-cc47-499f-9f62-0da7c68e7984"></video>
 </details>
