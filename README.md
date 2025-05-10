@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://wakatime.com/badge/user/eddcd7fe-d4ee-4c18-ab18-375b9a454019.svg" />
+  <img src="https://wakatime.com/badge/user/eddcd7fe-d4ee-4c18-ab18-375b9a454019.svg" alt="Hours programming" />
 </picture>
 <h2>Currently Working On:</h2>
 <ul>
@@ -10,6 +10,9 @@
 </ul>
 <h2>Creations:</h2>
 <details>
-  <summary>Simple Raycaster</summary>
-  
+    <summary>Simple Raycaster</summary>
+    <br />
+    <video width="320" height="240">
+        <source src="raycaster.mp4" type="video/mp4" />
+    </video>
 </details>
