@@ -5,9 +5,9 @@
 <h2>Currently Working On:</h2>
 <ul>
   <li>Feeding my Neovim config any remaining internal organs</li>
-  <li>Attempting to finish the 20 different side projects I have simultaneously</li>
+  <li>Attempting to finish the 20 side projects I have simultaneously</li>
   <li>Destroying my sleep schedule</li>
-  <li>Announcing that I use Arch (btw) to everyone I see</li>
+  <li>Saying that I use Arch (btw) to everyone I see</li>
 </ul>
 <h2>Creations:</h2>
 <details>
