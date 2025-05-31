@@ -7,7 +7,7 @@
   <li>Feeding my Neovim config</li>
   <li>Finishing the 20 side projects I have</li>
   <li>Destroying my sleep schedule</li>
-  <li>Saying that I use Arch (btw)</li>
+  <li>Using Arch (btw)</li>
 </ul>
 <h2>Creations:</h2>
 <details>
