@@ -1,4 +1,8 @@
 ### Hello, I'm Murat
+
+I like to code. That's basically it. There's not too much else I like to do. I just code when I got spare time (and sometimes even when I don't).
+
+##### Coding stats (from when time tracker was installed):
 <!--START_SECTION:wakatime-->
 
 ```cpp
