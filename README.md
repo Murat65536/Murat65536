@@ -5,11 +5,15 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-Java              22 hrs 10 mins  ██████████████████▒░░░░░░   73.32 %
-Python            3 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-C++               45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JavaScript        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Groovy            31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+From: 29 May 2024 - To: 12 August 2025
+
+Total Time: 1,107 hrs 24 mins
+
+Java                       551 hrs 4 mins  ████████████▒░░░░░░░░░░░░   49.47 %
+Python                     154 hrs 4 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+C                          123 hrs 36 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+C++                        75 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+AutoHotkey                 61 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:wakatime-->
