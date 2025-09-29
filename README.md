@@ -6,18 +6,18 @@ I like to code. That's basically it. There's not much else I like to do. I just 
 <!--START_SECTION:wakatime-->
 
 ```cpp
-From: 29 May 2024 - To: 27 September 2025
+From: 29 May 2024 - To: 28 September 2025
 
-Total Time: 1,200 hrs 8 mins
+Total Time: 1,205 hrs 41 mins
 
-Java                       603 hrs 33 mins ████████████▓░░░░░░░░░░░░   50.01 %
-Python                     154 hrs 6 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-C                          126 hrs 4 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-C++                        88 hrs 41 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-AutoHotkey                 61 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-HTML                       24 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Java                       603 hrs 37 mins ████████████▒░░░░░░░░░░░░   49.78 %
+Python                     154 hrs 6 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+C                          128 hrs 55 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+C++                        90 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+AutoHotkey                 61 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+HTML                       24 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 Rust                       18 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-JavaScript                 14 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JavaScript                 14 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 Groovy                     13 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 JSON                       13 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
