@@ -6,7 +6,7 @@ I just code when I got spare time (and sometimes even when I don't 🙃).
 <!--START_SECTION:wakatime-->
 
 ```cpp
-From: 29 May 2024 - To: 20 November 2025
+From: 29 May 2024 - To: 21 November 2025
 
 Total Time: 1,280 hrs 51 mins
 
