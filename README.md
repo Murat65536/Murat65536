@@ -6,19 +6,19 @@ I just code when I got spare time (and sometimes even when I don't 🙃).
 <!--START_SECTION:wakatime-->
 
 ```cpp
-From: 29 May 2024 - To: 28 February 2026
+From: 29 May 2024 - To: 01 March 2026
 
-Total Time: 1,635 hrs 34 mins
+Total Time: 1,643 hrs 6 mins
 
-Java                       818 hrs 35 mins       ████████████▒░░░░░░░░░░░░   49.70 %
-Python                     173 hrs 1 min         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-C                          151 hrs 37 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-C++                        132 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-AutoHotkey                 61 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Rust                       47 hrs 30 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-TypeScript                 38 hrs 39 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JavaScript                 25 hrs 23 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-HTML                       24 hrs 11 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Java                       822 hrs 5 mins        ████████████▒░░░░░░░░░░░░   49.68 %
+Python                     173 hrs 1 min         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+C                          153 hrs 27 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+C++                        132 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+AutoHotkey                 61 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Rust                       47 hrs 30 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+TypeScript                 38 hrs 39 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JavaScript                 25 hrs 23 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+HTML                       24 hrs 11 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 JSON                       18 hrs 27 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
